@@ -1,2 +1,8 @@
 # MR-Embedded_Team
- This is the repositry for all the drivers and projects done by the Embedded Systems Team in Mansoura Robotics since june 2025
+
+Welcome to our **MR-Embedded_Team** GitHub repository!  
+This is where we collaborate, learn, and build awesome projects together.  
+
+We focus on designing, coding, and documenting embedded systems — starting with the **ATmega32** microcontroller.
+
+This repositry contains all of Mansoura Robotics Embedded contributions since ***5 june 2025***, initially founded by: **Abdelrahman Kamal** (Head of Embedded Systems Committee), **Ibraheem El-Ghazali** (Vice of Embedded Systems Committee), **Zainab ElTantawy** (Head of Software), **Abdelrahman Abdelkhaliq** (Head of Computer Science committee), and **Mrwan Amr** (Vice of Computer Science committee).
